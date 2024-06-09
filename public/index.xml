@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quickstart</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Quickstart</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 07 Jun 2024 11:20:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mintarchit_gh Contribs_readme</title>
+      <link>http://localhost:1313/mintarchit_gh-contribs_readme/</link>
+      <pubDate>Fri, 07 Jun 2024 11:20:15 +0000</pubDate>
+      <guid>http://localhost:1313/mintarchit_gh-contribs_readme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mintarchit Readme</title>
+      <link>http://localhost:1313/posts/mintarchit-readme/</link>
+      <pubDate>Fri, 07 Jun 2024 11:13:47 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mintarchit-readme/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 06 Jun 2024 18:05:42 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>Seniorenbetreuung</title>
+      <link>http://localhost:1313/posts/seniorenbetreuung/</link>
+      <pubDate>Thu, 06 Jun 2024 18:05:42 +0000</pubDate>
+      <guid>http://localhost:1313/posts/seniorenbetreuung/</guid>
+      <description>Seniorenbetreuung ich bin Lily, eine erfahrene Betreuungskraft mit über 12 Jahren Erfahrung in der Seniorenbetreuung. Mit Hingabe helfe ich meinen Klienten, ein erfülltes Leben zu Hause zu führen. Ich suche eine neue Stelle, um meine Fähigkeiten und mein Herz weiterhin in den Dienst anderer zu stellen.&#xA;Meine Leistungen umfassen die Zubereitung gesunder Mahlzeiten, Alltagsbegleitung, Haushaltsführung, Organisation von Arztbesuchen, Medikamentenmanagement und kreative Freizeitgestaltung.&#xA;Ich bringe Geduld, Empathie und Zuverlässigkeit mit und habe hervorragende Referenzen.</description>
+    </item>
+  </channel>
+</rss>

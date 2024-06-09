@@ -1,0 +1,4 @@
+baseURL = 'https://quickstart.app/'
+languageCode = 'de-DE'
+title = 'Quickstart'
+theme = 'ananke'
